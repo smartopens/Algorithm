@@ -7,7 +7,7 @@ https://kimsmartblog.tistory.com/
 풀이방법, 느낀점들을 코드와 같이 블로그에도 차차 올릴 예정입니다.
 
 
-# 분류
+### 분류
 
 1.스택/큐
 
@@ -25,3 +25,6 @@ https://kimsmartblog.tistory.com/
 
 7.그래프
 
+### 파일 형식
+
+ipynb 형식으로 jupyter_notebook 환경에서 열어보실 수 있습니다.(anaconda)
