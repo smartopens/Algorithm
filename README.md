@@ -9,21 +9,23 @@ https://kimsmartblog.tistory.com/
 
 ### 분류
 
-1.스택/큐
+1.스택,큐
 
 2.힙
 
-3.정렬
+3.해시,딕셔너리 (Hash, Dictionary)
 
-4.완전탐색
+4.정렬
 
-5.탐욕(Greedy)
+5.탐색
 
-6.동적계획법(Dynamic Programming)
+6.탐욕(Greedy)
 
-6.깊이/너비 우선탐색(DFS/BFS)
+7.동적계획법(Dynamic Programming)
 
-7.그래프
+8.깊이,너비 우선탐색(DFS,BFS)
+
+9.그래프
 
 ### 파일 형식
 
