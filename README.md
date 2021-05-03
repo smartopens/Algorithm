@@ -29,4 +29,4 @@ https://kimsmartblog.tistory.com/
 
 ### 파일 형식
 
-ipynb 형식으로 jupyter_notebook 환경에서 열어보실 수 있습니다.(anaconda)
+ipynb 형식, python 형식으로 되어있습니다.
