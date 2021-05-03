@@ -27,6 +27,8 @@ https://kimsmartblog.tistory.com/
 
 9.그래프
 
+10.기타
+
 ### 파일 형식
 
 ipynb 형식, python 형식으로 되어있습니다.
