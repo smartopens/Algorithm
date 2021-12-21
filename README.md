@@ -26,4 +26,4 @@
 
 ### 파일 형식
 
-ipynb, python로 구성
+ipynb, python
