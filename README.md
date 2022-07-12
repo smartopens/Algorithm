@@ -8,15 +8,15 @@
 
 2.힙
 
-3.해시,딕셔너리 (Hash, Dictionary)
+3.해시,딕셔너리
 
 4.정렬
 
 5.탐색
 
-6.탐욕(Greedy)
+6.탐욕
 
-7.동적계획법(Dynamic Programming)
+7.동적계획법
 
 8.재귀함수
 
