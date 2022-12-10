@@ -30,4 +30,4 @@
 
 ipynb, python
 
-recently updated: move to master branch
+recently updated: master branch
