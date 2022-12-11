@@ -4,25 +4,25 @@
 
 ### Category
  
-1.구현(implementation)
+1. 구현(implementation)
 
-2.그래프(graph)
+2. 그래프(graph)
 
-3.동적계획법(dynamic programming)
+3. 동적계획법(dynamic programming)
 
-4.문자열(strings)
+4. 문자열(strings)
 
-5.백트래킹(back tracking)
+5. 백트래킹(back tracking)
 
-6.수학(math)
+6. 수학(math)
 
-7.자료구조(data structure)
+7. 자료구조(data structure)
 
-8.그리디(Greedy) 
+8. 그리디(Greedy) 
 
-9.탐색(Search)
+9. 탐색(Search)
 
-10.사이트별(problems by sites)
+10. 사이트별(problems by sites)
 
 ### Language
 
