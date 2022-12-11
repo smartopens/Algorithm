@@ -4,25 +4,25 @@
 
 ### Category
  
-1.구현
+1.구현(implementation)
 
-2.그래프(이론)
+2.그래프(graph)
 
-3.동적 계획법
+3.동적계획법(dynamic programming)
 
-4.문자열
+4.문자열(strings)
 
-5.백트래킹
+5.백트래킹(back tracking)
 
-6.수학
+6.수학(math)
 
-7.자료구조
+7.자료구조(data structure)
 
-8.재귀함수
+8. 
 
-9.탐색
+9.탐색(Search)
 
-10.사이트별 (백준/프로그래머스 Sites)
+10.사이트별(problems by sites)
 
 ### Language
 
