@@ -18,7 +18,7 @@
 
 7.자료구조(data structure)
 
-8. 
+8.그리디(Greedy) 
 
 9.탐색(Search)
 
