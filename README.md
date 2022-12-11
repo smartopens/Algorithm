@@ -22,12 +22,26 @@
 
 9.탐색
 
-10.탐욕
-
-11.사이트별(백준/프로그래머스)
+10.사이트별 (백준/프로그래머스 Sites)
 
 ### 파일 형식
 
 ipynb, python
 
-recently updated: master branch
+### For Searching Problems
+
+Google Search
+"file name" + "Your Program Language"  
+--> usually posted in korean
+
+### Reference
+
+Most Problems from Backjoon  
+https://www.acmicpc.net/
+
+Programmers  
+https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=2%2C3&partIds=17214
+
+Various Problems in Category (math, search, etc ..)  
+https://www.acmicpc.net/problem/tags
+
