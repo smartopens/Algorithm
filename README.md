@@ -18,11 +18,7 @@
 
 7.자료구조(data structure)
 
-8.그리디(Greedy) 
-
-9.탐색(Search)
-
-10.사이트별(problems by sites)
+8.탐색(Search)
 
 ### Language
 
