@@ -1,0 +1,77 @@
+#define _CRT_SECURE_NO_WARNINGS
+
+#include <iostream>
+#include <algorithm>
+
+using namespace std;
+
+// 판다: 상, 하, 좌, 우 이동
+
+// 처음 시작
+
+// s1, s2, st1, st2
+// m1, m2
+
+// 중간 시작
+
+// 마지막 점 시작
+
+int n;
+int trees[502][502];
+
+int dr[4] = { -1,0,1,0 };
+int dc[4] = { 0,1,0,-1 };
+
+int dp[502][502];
+
+int max_dist;
+
+int f_go(int pr, int pc)
+{
+    if (dp[pr][pc] != -1)
+    {
+        return dp[pr][pc];
+    }
+
+    dp[pr][pc] = 1;
+
+    int to_pr, to_pc;
+    for (int i = 0; i < 4; i++)
+    {
+        to_pr = pr + dr[i];
+        to_pc = pc + dc[i];
+
+        if (0 > to_pr || n - 1 < to_pr || 0 > to_pc || n - 1 < to_pc) continue;
+        if (trees[to_pr][to_pc] <= trees[pr][pc]) continue;
+
+        dp[pr][pc] = max(dp[pr][pc], f_go(to_pr, to_pc) + 1);
+    }
+
+    return dp[pr][pc];
+}
+
+int main() {
+    cin >> n;
+    
+    int t_num;
+    for (int r = 0; r < n; r++)
+    {
+        for (int c = 0; c < n; c++)
+        {
+            cin >> trees[r][c];
+            dp[r][c] = -1;
+        }
+    }
+
+    for (int r = 0; r < n; r++)
+    {
+        for (int c = 0; c < n; c++)
+        {
+            if (dp[r][c] != -1) continue;
+            max_dist = max(max_dist, f_go(r,c));
+        }
+    }
+
+    cout << max_dist << endl;
+    return 0;
+};
