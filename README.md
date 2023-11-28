@@ -19,25 +19,3 @@
 7.자료구조(data structure)
 
 8.탐색(Search)
-
-### Language
-
-ipynb, python, c++
-
-### For Searching Problems
-
-Google Search
-"file name" + "Your Program Language"  
---> usually posted in korean
-
-### Reference
-
-Most Problems from Backjoon  
-https://www.acmicpc.net/
-
-Programmers  
-https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=2%2C3&partIds=17214
-
-Various Problems in Category (math, search, etc ..)  
-https://www.acmicpc.net/problem/tags
-
